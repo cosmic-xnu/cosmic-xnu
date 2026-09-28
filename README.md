@@ -1,8 +1,10 @@
-👋 Hey, I'm Friedrich Müller
+# 👋 Hey, I'm Friedrich Müller     
+---
+- 💻 Developer     
+- ⚡ JavaScript     
+- 🟢 Node.js     
+- 🚀 Building & experimenting with new projects     
+- 📚 Always learning something new     
+- 🔧 Currently working on cool stuff     
 
-💻 Developer
-⚡ JavaScript
-🟢 Node.js
-🚀 Building & experimenting with new projects
-📚 Always learning something new
-🔧 Currently working on cool stuff
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Friedrich-Muller&theme=nightowl)
