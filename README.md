@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Friedrich Müller     
+# 👋 Hey, I'm Cosmic     
 ---
 - 💻 Developer     
 - ⚡ JavaScript     
