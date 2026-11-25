@@ -7,4 +7,4 @@
 - 📚 Always learning something new     
 - 🔧 Currently working on cool stuff     
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Friedrich-Muller&theme=nightowl)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=cosmic-xnu&theme=nightowl)
